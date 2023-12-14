@@ -3,7 +3,7 @@
 
 ## ABOUT ME
 
-  <a href="https://helix-bull-964.notion.site/UP-UP-f9d4657d8b414e6e94be35546e083d61?pvs=4" target="_blank" title="박지훈 이력서">:speech_balloon: 이력서 자세히 보기</a>
+  <a href="https://helix-bull-964.notion.site/6aa176c2b00e45329bce672319edbf3d?pvs=4" target="_blank" title="박지훈 이력서">:speech_balloon: 이력서 자세히 보기</a>
 
 ## LANGUAGE & TECH STACK
 
